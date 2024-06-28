@@ -136,7 +136,7 @@ h2 span {
 .info {
     display: flex;
     column-gap: 64px;
-    justify-content: center;
+    justify-content: start;
 }
 
 
